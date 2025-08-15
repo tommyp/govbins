@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import { Image } from "astro:assets";
 
 const {
   fileName,
@@ -9,12 +9,13 @@ const {
   contributorHandle,
   contributorURL,
   slug,
+  retroName,
 } = Astro.props;
 ---
 
 <a href={`/${slug}`}>
   <a class="block sm:pb-10">
-    <Image src={fileName} alt={councilName} />
+    <Image src={fileName} alt={councilName || retroName} />
 
     <div class="hidden sm:block p-4">
       <h3 class="mb-1 text-2xl" data-local-authority-eng={councilCode}>
