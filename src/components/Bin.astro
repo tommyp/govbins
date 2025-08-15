@@ -18,12 +18,7 @@ const date = strftime('%d %B %Y', collectionDate);
 
 <a href={`/${slug}`}>
   <!-- <a class="block sm:pb-10"> -->
-  <Image
-    src={fileName}
-    alt={councilName || retroName}
-    width={720}
-    height={540}
-  />
+  <Image src={fileName} alt={councilName || retroName} />
 
   <div class="metadata">
     <h3 class="" data-local-authority-eng={councilCode}>
@@ -48,6 +43,9 @@ const date = strftime('%d %B %Y', collectionDate);
 </a>
 
 <style>
+  img {
+    height: auto;
+  }
   .metadata {
     display: none;
     padding: 1rem;
