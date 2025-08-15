@@ -7,4 +7,5 @@ export interface Bin {
     contributorHandle?: string;
     contributorURL?: string;
   };
+  collection: 'bins';
 }

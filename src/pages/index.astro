@@ -1,19 +1,88 @@
 ---
 import { getCollection } from 'astro:content';
-import type { Bin as TBin } from '../types';
 import Layout from '../layouts/Layout.astro';
 import Bin from '../components/Bin.astro';
 
 const bins = await getCollection('bins');
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const sortOptions = [
+  {
+    key: 'latest',
+    name: 'Latest',
+    active: true,
+  },
+  {
+    key: 'oldest',
+    name: 'Oldest',
+    active: false,
+  },
+  {
+    key: 'name',
+    name: 'Name',
+    active: false,
+  },
+  {
+    key: 'colour',
+    name: 'Colour',
+    active: false,
+  },
+  {
+    key: 'retro',
+    name: 'Retro',
+    active: false,
+  },
+];
 ---
 
 <Layout>
+  <ul class="sort-bar">
+    {
+      sortOptions.map((option) => {
+        return (
+          <li class="inline-block">
+            <a href="#" class="block px-3 py-1 border-t-4 border-transparent">
+              {option.name}
+            </a>
+          </li>
+        );
+      })
+    }
+  </ul>
   <ul>
-    {bins.map((bin: TBin) => <Bin {...bin.data} />)}
+    {bins.map((bin) => <Bin {...bin.data} />)}
   </ul>
 </Layout>
 
-<style></style>
+<style>
+  .sort-bar {
+    background-color: #cccccc;
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
+
+  .sort-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .sort-bar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+  }
+
+  .sort-bar {
+    li {
+      list-style: none;
+      display: inline-block;
+    }
+
+    a {
+      display: block;
+      padding: 0.25rem 0.75rem;
+      border-top: 4px solid transparent;
+      color: var(--text-color);
+      text-decoration: none;
+    }
+  }
+</style>
