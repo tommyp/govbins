@@ -1,5 +1,6 @@
 ---
 import { Image } from 'astro:assets';
+import strftime from 'strftime';
 
 const {
   fileName,
@@ -11,18 +12,25 @@ const {
   slug,
   retroName,
 } = Astro.props;
+
+const date = strftime('%d %B %Y', collectionDate);
 ---
 
 <a href={`/${slug}`}>
   <!-- <a class="block sm:pb-10"> -->
-  <Image src={fileName} alt={councilName || retroName} />
+  <Image
+    src={fileName}
+    alt={councilName || retroName}
+    width={720}
+    height={540}
+  />
 
-  <div class="hidden sm:block p-4">
-    <h3 class="mb-1 text-2xl" data-local-authority-eng={councilCode}>
+  <div class="metadata">
+    <h3 class="" data-local-authority-eng={councilCode}>
       {councilName}
     </h3>
-    <div class="font-sans font-light text-xl">
-      <p>{collectionDate}</p>
+    <div class="font-sans font-light text-xl contribution">
+      <p>{date}</p>
       {
         contributorHandle && contributorURL ? (
           <p>
@@ -40,11 +48,30 @@ const {
 </a>
 
 <style>
-  a {
-    display: block;
+  .metadata {
+    display: none;
+    padding: 1rem;
+
+    h3 {
+      margin-bottom: 0.25rem;
+      font-size: 1.5rem;
+      line-height: 2rem;
+    }
   }
+
+  a {
+    color: var(--text-color);
+    text-decoration: none;
+  }
+
   .contributor {
     text-decoration: underline;
     text-decoration-color: #ea47cb;
+  }
+
+  @media (min-width: 576px) {
+    .metadata {
+      display: block;
+    }
   }
 </style>

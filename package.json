@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "@fontsource/rubik": "^5.2.6",
-    "astro": "^5.12.9"
+    "astro": "^5.12.9",
+    "strftime": "^0.10.3"
+  },
+  "devDependencies": {
+    "@types/strftime": "^0.9.8"
   }
 }
