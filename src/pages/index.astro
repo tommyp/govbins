@@ -1,11 +1,23 @@
 ---
-import Welcome from '../components/Welcome.astro';
+import { getCollection } from 'astro:content';
+import type { Bin as TBin } from '../types';
 import Layout from '../layouts/Layout.astro';
+import Bin from '../components/Bin.astro';
+
+const bins = await getCollection('bins');
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
 <Layout>
-	<Welcome />
+  <ul>
+    {bins.map((bin: TBin) => <Bin {...bin.data} />)}
+  </ul>
 </Layout>
+
+<style>
+  body {
+    background-color: #f8f8f8;
+  }
+</style>

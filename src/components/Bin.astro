@@ -1,0 +1,40 @@
+---
+const {
+  fileName,
+  councilCode,
+  councilName,
+  collectionDate,
+  contributorHandle,
+  contributorURL,
+  slug,
+} = Astro.props;
+---
+
+<div>
+  <a href={`/${slug}`}>
+    <a class="block sm:pb-10">
+      <!-- <LazyLoad offsetVertical={1500}>
+            <img src={fileName} />
+          </LazyLoad> -->
+      <div class="hidden sm:block p-4">
+        <h3 class="mb-1 text-2xl" data-local-authority-eng={councilCode}>
+          {councilName}
+        </h3>
+        <div class="font-sans font-light text-xl">
+          <p>{collectionDate}</p>
+          {
+            contributorHandle && contributorURL ? (
+              <p>
+                <a class="contributor" href={contributorURL}>
+                  {contributorHandle}
+                </a>
+              </p>
+            ) : (
+              <p>{contributorHandle}</p>
+            )
+          }
+        </div>
+      </div>
+    </a>
+  </a>
+</div>
