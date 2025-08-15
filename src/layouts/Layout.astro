@@ -2,8 +2,6 @@
 import '@fontsource/rubik';
 import Header from '../components/Header.astro';
 import '../styles/reset.css';
-
-const { title } = Astro.props;
 ---
 
 <!doctype html>
@@ -66,8 +64,10 @@ const { title } = Astro.props;
   }
 
   body {
+    --text-color: rgb(31, 41, 55);
+    font-size: 16px;
     background-color: #f8f8f8;
-    color: rgb(31, 41, 55);
+    color: var(--text-color);
     font-family:
       'Rubik',
       system-ui,
