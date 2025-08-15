@@ -39,8 +39,8 @@ const sortOptions = [
     {
       sortOptions.map((option) => {
         return (
-          <li class="inline-block">
-            <a href="#" class="block px-3 py-1 border-t-4 border-transparent">
+          <li class="">
+            <a href="#" class={option.key == 'latest' ? 'active' : ''}>
               {option.name}
             </a>
           </li>
@@ -88,6 +88,11 @@ const sortOptions = [
       border-top: 4px solid transparent;
       color: var(--text-color);
       text-decoration: none;
+    }
+
+    a.active,
+    a:hover {
+      border-color: var(--text-color);
     }
   }
 
