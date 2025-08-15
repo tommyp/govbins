@@ -1,6 +1,6 @@
 [
   {
-    "fileName": "Wallsall.jpg",
+    "fileName": "../images/Wallsall.jpg",
     "slug": "wallsall",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WAL",
@@ -9,7 +9,7 @@
     "councilName": "Wallsall"
   },
   {
-    "fileName": "Newcastle-under-Lyme.jpg",
+    "fileName": "../images/Newcastle-under-Lyme.jpg",
     "slug": "newcastle-under-lyme",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NEW",
@@ -18,7 +18,7 @@
     "councilName": "Newcastle-under-Lyme"
   },
   {
-    "fileName": "Harrogate.jpg",
+    "fileName": "../images/Harrogate.jpg",
     "slug": "harrogate",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAR",
@@ -29,7 +29,7 @@
     "councilName": "Harrogate"
   },
   {
-    "fileName": "Plymouth.jpg",
+    "fileName": "../images/Plymouth.jpg",
     "slug": "plymouth",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "PLY",
@@ -39,7 +39,7 @@
     "councilName": "Plymouth"
   },
   {
-    "fileName": "Wyre-Forest.jpg",
+    "fileName": "../images/Wyre-Forest.jpg",
     "slug": "wyre-forest",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOS",
@@ -50,7 +50,7 @@
     "councilName": "Wyre Forest"
   },
   {
-    "fileName": "Dudley.jpg",
+    "fileName": "../images/Dudley.jpg",
     "slug": "dudley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOS",
@@ -61,7 +61,7 @@
     "councilName": "Dudley"
   },
   {
-    "fileName": "Carmarthenshire.jpg",
+    "fileName": "../images/Carmarthenshire.jpg",
     "slug": "carmarthenshire",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "CAR",
@@ -70,7 +70,7 @@
     "councilName": "Carmarthenshire"
   },
   {
-    "fileName": "Isle-of-Wight.jpg",
+    "fileName": "../images/Isle-of-Wight.jpg",
     "slug": "isle-of-wight",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOS",
@@ -81,7 +81,7 @@
     "councilName": "Isle of Wight"
   },
   {
-    "fileName": "Castle-Point.jpg",
+    "fileName": "../images/Castle-Point.jpg",
     "slug": "castle-point",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOS",
@@ -92,7 +92,7 @@
     "councilName": "Castle Point"
   },
   {
-    "fileName": "Breckland.jpg",
+    "fileName": "../images/Breckland.jpg",
     "slug": "breckland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -101,7 +101,7 @@
     "councilName": "Breckland"
   },
   {
-    "fileName": "Boston.jpg",
+    "fileName": "../images/Boston.jpg",
     "slug": "boston",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOS",
@@ -112,7 +112,7 @@
     "councilName": "Boston"
   },
   {
-    "fileName": "Lincolnshire.jpg",
+    "fileName": "../images/Lincolnshire.jpg",
     "slug": "lincolnshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOS",
@@ -123,7 +123,7 @@
     "councilName": "Lincolnshire"
   },
   {
-    "fileName": "Great-Yarmouth.jpg",
+    "fileName": "../images/Great-Yarmouth.jpg",
     "slug": "great-yarmouth",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "GLG",
@@ -134,7 +134,7 @@
     "councilName": "Great Yarmouth"
   },
   {
-    "fileName": "South-Ayrshire.jpg",
+    "fileName": "../images/South-Ayrshire.jpg",
     "slug": "south-ayrshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "GLG",
@@ -145,7 +145,7 @@
     "councilName": "South Ayrshire"
   },
   {
-    "fileName": "Clackmannanshire.jpg",
+    "fileName": "../images/Clackmannanshire.jpg",
     "slug": "clackmannanshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "GLG",
@@ -156,7 +156,7 @@
     "councilName": "Clackmannanshire"
   },
   {
-    "fileName": "Central-Bedfordshire.jpg",
+    "fileName": "../images/Central-Bedfordshire.jpg",
     "slug": "central-bedfordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EHA",
@@ -165,7 +165,7 @@
     "councilName": "Central Bedfordshire"
   },
   {
-    "fileName": "Bedford.jpg",
+    "fileName": "../images/Bedford.jpg",
     "slug": "bedford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EHA",
@@ -174,7 +174,7 @@
     "councilName": "Bedford"
   },
   {
-    "fileName": "Eden.jpg",
+    "fileName": "../images/Eden.jpg",
     "slug": "eden",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KES",
@@ -184,7 +184,7 @@
     "councilName": "Eden"
   },
   {
-    "fileName": "Cornwall.jpg",
+    "fileName": "../images/Cornwall.jpg",
     "slug": "cornwall",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -195,7 +195,7 @@
     "councilName": "Cornwall"
   },
   {
-    "fileName": "Worcester.jpg",
+    "fileName": "../images/Worcester.jpg",
     "slug": "worcester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -205,7 +205,7 @@
     "councilName": "Worcester"
   },
   {
-    "fileName": "Gosport.jpg",
+    "fileName": "../images/Gosport.jpg",
     "slug": "gosport",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -216,7 +216,7 @@
     "councilName": "Gosport"
   },
   {
-    "fileName": "Selby.jpg",
+    "fileName": "../images/Selby.jpg",
     "slug": "selby",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -227,7 +227,7 @@
     "councilName": "Selby"
   },
   {
-    "fileName": "Erewash.jpg",
+    "fileName": "../images/Erewash.jpg",
     "slug": "erewash",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -238,7 +238,7 @@
     "councilName": "Erewash"
   },
   {
-    "fileName": "Redbridge.jpg",
+    "fileName": "../images/Redbridge.jpg",
     "slug": "redbridge",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -249,7 +249,7 @@
     "councilName": "Redbridge"
   },
   {
-    "fileName": "Wychavon.jpg",
+    "fileName": "../images/Wychavon.jpg",
     "slug": "wychavon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -260,7 +260,7 @@
     "councilName": "Wychavon"
   },
   {
-    "fileName": "Scarborough.jpg",
+    "fileName": "../images/Scarborough.jpg",
     "slug": "scarborough",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -271,7 +271,7 @@
     "councilName": "Scarborough"
   },
   {
-    "fileName": "West-Lindsey.jpg",
+    "fileName": "../images/West-Lindsey.jpg",
     "slug": "west-lindsey",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BPC",
@@ -281,7 +281,7 @@
     "councilName": "West Lindsey"
   },
   {
-    "fileName": "Warwick.jpg",
+    "fileName": "../images/Warwick.jpg",
     "slug": "warwick",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BPC",
@@ -291,7 +291,7 @@
     "councilName": "Warwick"
   },
   {
-    "fileName": "Dumfries-and-Galloway.jpg",
+    "fileName": "../images/Dumfries-and-Galloway.jpg",
     "slug": "dumfries-and-galloway",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "IVC",
@@ -302,7 +302,7 @@
     "councilName": "Dumfries and Galloway"
   },
   {
-    "fileName": "Scottish-borders.jpg",
+    "fileName": "../images/Scottish-borders.jpg",
     "slug": "scottish-borders",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "IVC",
@@ -312,7 +312,7 @@
     "councilName": "Scottish Borders"
   },
   {
-    "fileName": "Ribble-valley.jpg",
+    "fileName": "../images/Ribble-valley.jpg",
     "slug": "ribble-valley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -323,7 +323,7 @@
     "councilName": "Ribble Valley"
   },
   {
-    "fileName": "Lichfield.jpg",
+    "fileName": "../images/Lichfield.jpg",
     "slug": "lichfield",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -334,7 +334,7 @@
     "councilName": "Lichfield"
   },
   {
-    "fileName": "Bournemouth-Christchurch-and-Poole.jpg",
+    "fileName": "../images/Bournemouth-Christchurch-and-Poole.jpg",
     "slug": "bournemouth-christchurch-and-poole",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BPC",
@@ -344,7 +344,7 @@
     "councilName": "Bournemouth, Christchurch and Poole"
   },
   {
-    "fileName": "Stoke-on-Trent.jpg",
+    "fileName": "../images/Stoke-on-Trent.jpg",
     "slug": "stoke-on-trent",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -355,7 +355,7 @@
     "councilName": "Stoke-on-Trent"
   },
   {
-    "fileName": "Stratford-on-Avon.jpg",
+    "fileName": "../images/Stratford-on-Avon.jpg",
     "slug": "stratford-on-avon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -366,7 +366,7 @@
     "councilName": "Stratford-on-Avon"
   },
   {
-    "fileName": "Ryedale.jpg",
+    "fileName": "../images/Ryedale.jpg",
     "slug": "ryedale",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -377,7 +377,7 @@
     "councilName": "Ryedale"
   },
   {
-    "fileName": "Burnley.jpg",
+    "fileName": "../images/Burnley.jpg",
     "slug": "burnley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "FOE",
@@ -388,7 +388,7 @@
     "councilName": "Burnley"
   },
   {
-    "fileName": "Blaenau-Gwent.jpg",
+    "fileName": "../images/Blaenau-Gwent.jpg",
     "slug": "blaenau-gwent",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "HAT",
@@ -397,7 +397,7 @@
     "councilName": "Blaenau Gwent"
   },
   {
-    "fileName": "Monmouthshire.jpg",
+    "fileName": "../images/Monmouthshire.jpg",
     "slug": "monmouthshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAT",
@@ -406,7 +406,7 @@
     "councilName": "Monmouthshire"
   },
   {
-    "fileName": "North-Ayrshire.jpg",
+    "fileName": "../images/North-Ayrshire.jpg",
     "slug": "north-ayrshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "IVC",
@@ -416,7 +416,7 @@
     "councilName": "North Ayrshire"
   },
   {
-    "fileName": "Thurrock.jpg",
+    "fileName": "../images/Thurrock.jpg",
     "slug": "thurrock",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "PEM",
@@ -426,7 +426,7 @@
     "councilName": "Thurrock"
   },
   {
-    "fileName": "Broadland.jpg",
+    "fileName": "../images/Broadland.jpg",
     "slug": "broadland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SNO",
@@ -436,7 +436,7 @@
     "councilName": "Broadland"
   },
   {
-    "fileName": "Pembrokeshire.jpg",
+    "fileName": "../images/Pembrokeshire.jpg",
     "slug": "pembrokeshire",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "PEM",
@@ -446,7 +446,7 @@
     "councilName": "Pembrokeshire"
   },
   {
-    "fileName": "South-Norfolk.jpg",
+    "fileName": "../images/South-Norfolk.jpg",
     "slug": "south-norfolk",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SNO",
@@ -456,7 +456,7 @@
     "councilName": "South Norfolk"
   },
   {
-    "fileName": "Hart.jpg",
+    "fileName": "../images/Hart.jpg",
     "slug": "hart",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAT",
@@ -465,7 +465,7 @@
     "councilName": "Hart"
   },
   {
-    "fileName": "East-Hampshire.jpg",
+    "fileName": "../images/East-Hampshire.jpg",
     "slug": "east-hampshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EHA",
@@ -474,7 +474,7 @@
     "councilName": "East Hampshire"
   },
   {
-    "fileName": "South-Kesteven.jpg",
+    "fileName": "../images/South-Kesteven.jpg",
     "slug": "south-kesteven",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KES",
@@ -484,7 +484,7 @@
     "councilName": "South Kesteven"
   },
   {
-    "fileName": "Buckinghamshire.jpg",
+    "fileName": "../images/Buckinghamshire.jpg",
     "slug": "buckinghamshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BUC",
@@ -495,7 +495,7 @@
     "councilName": "Buckinghamshire"
   },
   {
-    "fileName": "Mendip.jpg",
+    "fileName": "../images/Mendip.jpg",
     "slug": "mendip",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MEN",
@@ -504,7 +504,7 @@
     "councilName": "Mendip"
   },
   {
-    "fileName": "Dorset.jpg",
+    "fileName": "../images/Dorset.jpg",
     "slug": "dorset",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DOR",
@@ -513,7 +513,7 @@
     "councilName": "Dorset"
   },
   {
-    "fileName": "Teignbridge.jpg",
+    "fileName": "../images/Teignbridge.jpg",
     "slug": "teignbridge",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TEI",
@@ -522,7 +522,7 @@
     "councilName": "Teignbridge"
   },
   {
-    "fileName": "Torbay.jpg",
+    "fileName": "../images/Torbay.jpg",
     "slug": "torbay",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TOB",
@@ -531,7 +531,7 @@
     "councilName": "Torbay"
   },
   {
-    "fileName": "South-Hams.jpg",
+    "fileName": "../images/South-Hams.jpg",
     "slug": "south-hams",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SHA",
@@ -540,7 +540,7 @@
     "councilName": "South Hams"
   },
   {
-    "fileName": "Herefordshire.jpg",
+    "fileName": "../images/Herefordshire.jpg",
     "slug": "herefordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HEF",
@@ -551,7 +551,7 @@
     "councilName": "Herefordshire"
   },
   {
-    "fileName": "East-Devon.jpg",
+    "fileName": "../images/East-Devon.jpg",
     "slug": "east-devon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EDE",
@@ -560,7 +560,7 @@
     "councilName": "East Devon"
   },
   {
-    "fileName": "Mid-and-East-Antrim.jpg",
+    "fileName": "../images/Mid-and-East-Antrim.jpg",
     "slug": "mid-and-east-antrim",
     "localAuthorityCountry": "ni",
     "localAuthorityCode": "MEA",
@@ -571,7 +571,7 @@
     "councilName": "Mid and East Antrim"
   },
   {
-    "fileName": "Vale-of-White-Horse.jpg",
+    "fileName": "../images/Vale-of-White-Horse.jpg",
     "slug": "vale-of-white-horse",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "VAL",
@@ -580,7 +580,7 @@
     "councilName": "Vale of White Horse"
   },
   {
-    "fileName": "Swindon.jpg",
+    "fileName": "../images/Swindon.jpg",
     "slug": "swindon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SWD",
@@ -589,7 +589,7 @@
     "councilName": "Swindon"
   },
   {
-    "fileName": "Haringey.jpg",
+    "fileName": "../images/Haringey.jpg",
     "slug": "haringey",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HRY",
@@ -600,7 +600,7 @@
     "councilName": "Haringey"
   },
   {
-    "fileName": "Craven.jpg",
+    "fileName": "../images/Craven.jpg",
     "slug": "craven",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CRA",
@@ -611,7 +611,7 @@
     "councilName": "Craven"
   },
   {
-    "fileName": "Macclesfield.jpg",
+    "fileName": "../images/Macclesfield.jpg",
     "slug": "macclesfield",
     "retro": "true",
     "retroWhy": "abolished",
@@ -623,7 +623,7 @@
     "contributorURL": "https://twitter.com/alicebartlett"
   },
   {
-    "fileName": "Hart-retro.jpg",
+    "fileName": "../images/Hart-retro.jpg",
     "slug": "hart-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -632,7 +632,7 @@
     "endDate": "2008"
   },
   {
-    "fileName": "West-Wiltshire.jpg",
+    "fileName": "../images/West-Wiltshire.jpg",
     "slug": "west-wiltshire",
     "retro": "true",
     "retroWhy": "abolished",
@@ -644,7 +644,7 @@
     "contributorURL": "https://www.instagram.com/m.sergison"
   },
   {
-    "fileName": "Liverpool-retro.jpg",
+    "fileName": "../images/Liverpool-retro.jpg",
     "slug": "liverpool-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -653,7 +653,7 @@
     "endDate": "2014"
   },
   {
-    "fileName": "Southwark-retro.jpg",
+    "fileName": "../images/Southwark-retro.jpg",
     "slug": "southwark-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -662,7 +662,7 @@
     "endDate": "1999"
   },
   {
-    "fileName": "Poole.jpg",
+    "fileName": "../images/Poole.jpg",
     "slug": "Poole",
     "retro": "true",
     "retroWhy": "abolished",
@@ -672,7 +672,7 @@
     "endDate": "2019"
   },
   {
-    "fileName": "Shepway.jpg",
+    "fileName": "../images/Shepway.jpg",
     "slug": "shepway",
     "retro": "true",
     "retroWhy": "abolished",
@@ -682,7 +682,7 @@
     "endDate": "2018"
   },
   {
-    "fileName": "Berwick-upon-Tweed.jpg",
+    "fileName": "../images/Berwick-upon-Tweed.jpg",
     "slug": "berwick-upon-tweed",
     "retro": "true",
     "retroWhy": "abolished",
@@ -692,7 +692,7 @@
     "endDate": "2009"
   },
   {
-    "fileName": "Purbeck.jpg",
+    "fileName": "../images/Purbeck.jpg",
     "slug": "purbeck",
     "retro": "true",
     "retroWhy": "abolished",
@@ -702,7 +702,7 @@
     "endDate": "2019"
   },
   {
-    "fileName": "North-Wiltshire.jpg",
+    "fileName": "../images/North-Wiltshire.jpg",
     "slug": "north-wiltshire",
     "retro": "true",
     "retroWhy": "abolished",
@@ -712,7 +712,7 @@
     "endDate": "2009"
   },
   {
-    "fileName": "Haringey-retro.jpg",
+    "fileName": "../images/Haringey-retro.jpg",
     "slug": "haringey-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -721,7 +721,7 @@
     "endDate": "2015"
   },
   {
-    "fileName": "Chelmsford-retro.jpg",
+    "fileName": "../images/Chelmsford-retro.jpg",
     "slug": "chelmsford-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -730,7 +730,7 @@
     "endDate": "2012"
   },
   {
-    "fileName": "Wyre-retro.jpg",
+    "fileName": "../images/Wyre-retro.jpg",
     "slug": "wyre-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -739,7 +739,7 @@
     "endDate": "1974"
   },
   {
-    "fileName": "Gloucester-retro.jpg",
+    "fileName": "../images/Gloucester-retro.jpg",
     "slug": "gloucester-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -748,7 +748,7 @@
     "endDate": "2012"
   },
   {
-    "fileName": "Reigate-and-Banstead-retro.jpg",
+    "fileName": "../images/Reigate-and-Banstead-retro.jpg",
     "slug": "reigate-and-banstead-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -757,7 +757,7 @@
     "endDate": "TBC"
   },
   {
-    "fileName": "Lancaster-retro.jpg",
+    "fileName": "../images/Lancaster-retro.jpg",
     "slug": "lancaster-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -766,7 +766,7 @@
     "endDate": "2014"
   },
   {
-    "fileName": "Kingston-upon-Thames-retro.jpg",
+    "fileName": "../images/Kingston-upon-Thames-retro.jpg",
     "slug": "kingston-upon-thames-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -775,7 +775,7 @@
     "endDate": "2014"
   },
   {
-    "fileName": "North-Devon-retro.jpg",
+    "fileName": "../images/North-Devon-retro.jpg",
     "slug": "north-devon-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -784,7 +784,7 @@
     "endDate": "2009"
   },
   {
-    "fileName": "Castle-Morpeth.jpg",
+    "fileName": "../images/Castle-Morpeth.jpg",
     "slug": "castle-morpeth",
     "retro": "true",
     "retroWhy": "abolished",
@@ -794,7 +794,7 @@
     "endDate": "2009"
   },
   {
-    "fileName": "Bath-and-North-East-Somerset-retro.jpg",
+    "fileName": "../images/Bath-and-North-East-Somerset-retro.jpg",
     "slug": "bath-and-north-east-somerset-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -803,7 +803,7 @@
     "endDate": "2008"
   },
   {
-    "fileName": "Wycombe.jpg",
+    "fileName": "../images/Wycombe.jpg",
     "slug": "wycombe",
     "retro": "true",
     "retroWhy": "abolished",
@@ -813,7 +813,7 @@
     "endDate": "2020"
   },
   {
-    "fileName": "Chiltern.jpg",
+    "fileName": "../images/Chiltern.jpg",
     "slug": "chiltern",
     "retro": "true",
     "retroWhy": "abolished",
@@ -823,7 +823,7 @@
     "endDate": "2020"
   },
   {
-    "fileName": "South-Bucks.jpg",
+    "fileName": "../images/South-Bucks.jpg",
     "slug": "south-bucks",
     "retro": "true",
     "retroWhy": "abolished",
@@ -833,7 +833,7 @@
     "endDate": "2020"
   },
   {
-    "fileName": "Aylesbury-Vale.jpg",
+    "fileName": "../images/Aylesbury-Vale.jpg",
     "slug": "aylesbury-vale",
     "retro": "true",
     "retroWhy": "abolished",
@@ -843,7 +843,7 @@
     "endDate": "2020"
   },
   {
-    "fileName": "Torbay-retro.jpg",
+    "fileName": "../images/Torbay-retro.jpg",
     "slug": "torbay-retro",
     "retro": "true",
     "retroWhy": "branding",
@@ -852,7 +852,7 @@
     "endDate": "2020"
   },
   {
-    "fileName": "West-Dorset.jpg",
+    "fileName": "../images/West-Dorset.jpg",
     "slug": "west-dorset",
     "retro": "true",
     "retroWhy": "abolished",
@@ -862,7 +862,7 @@
     "endDate": "2019"
   },
   {
-    "fileName": "Congleton.jpg",
+    "fileName": "../images/Congleton.jpg",
     "slug": "congleton",
     "retro": "true",
     "retroWhy": "abolished",
@@ -874,7 +874,7 @@
     "contributorURL": "https://www.instagram.com/paulemorgan/"
   },
   {
-    "fileName": "North-Shropshire.jpg",
+    "fileName": "../images/North-Shropshire.jpg",
     "slug": "north-shropshire",
     "retro": "true",
     "retroWhy": "abolished",
@@ -886,7 +886,7 @@
     "contributorURL": "https://twitter.com/allanwin"
   },
   {
-    "fileName": "West-Lancashire.jpg",
+    "fileName": "../images/West-Lancashire.jpg",
     "slug": "west-lancashire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WLA",
@@ -897,7 +897,7 @@
     "councilName": "West Lancashire"
   },
   {
-    "fileName": "Basildon.jpg",
+    "fileName": "../images/Basildon.jpg",
     "slug": "basildon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BAI",
@@ -908,7 +908,7 @@
     "councilName": "Basildon"
   },
   {
-    "fileName": "Tendring.jpg",
+    "fileName": "../images/Tendring.jpg",
     "slug": "tendring",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TEN",
@@ -918,7 +918,7 @@
     "councilName": "Tendring"
   },
   {
-    "fileName": "Kettering.jpg",
+    "fileName": "../images/Kettering.jpg",
     "slug": "kettering",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KET",
@@ -929,7 +929,7 @@
     "councilName": "Kettering"
   },
   {
-    "fileName": "Halton.jpg",
+    "fileName": "../images/Halton.jpg",
     "slug": "halton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAL",
@@ -940,7 +940,7 @@
     "councilName": "Halton"
   },
   {
-    "fileName": "Cotswold.jpg",
+    "fileName": "../images/Cotswold.jpg",
     "slug": "cotswold",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "COT",
@@ -949,7 +949,7 @@
     "councilName": "Cotswold"
   },
   {
-    "fileName": "Inverclyde.jpg",
+    "fileName": "../images/Inverclyde.jpg",
     "slug": "inverclyde",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "IVC",
@@ -960,7 +960,7 @@
     "councilName": "Inverclyde"
   },
   {
-    "fileName": "High-Peak.jpg",
+    "fileName": "../images/High-Peak.jpg",
     "slug": "high-peak",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HIG",
@@ -971,7 +971,7 @@
     "councilName": "High Peak"
   },
   {
-    "fileName": "Highland.jpg",
+    "fileName": "../images/Highland.jpg",
     "slug": "highland",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "HLD",
@@ -982,7 +982,7 @@
     "councilName": "Highland"
   },
   {
-    "fileName": "Gwynedd.jpg",
+    "fileName": "../images/Gwynedd.jpg",
     "slug": "gwynedd",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "GWN",
@@ -993,7 +993,7 @@
     "councilName": "Gwynedd"
   },
   {
-    "fileName": "Derby.jpg",
+    "fileName": "../images/Derby.jpg",
     "slug": "derby",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DER",
@@ -1004,7 +1004,7 @@
     "councilName": "Derby"
   },
   {
-    "fileName": "Tewkesbury.jpg",
+    "fileName": "../images/Tewkesbury.jpg",
     "slug": "tewkesbury",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TEW",
@@ -1013,7 +1013,7 @@
     "councilName": "Tewkesbury"
   },
   {
-    "fileName": "Gloucester.jpg",
+    "fileName": "../images/Gloucester.jpg",
     "slug": "gloucester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "GLO",
@@ -1022,7 +1022,7 @@
     "councilName": "Gloucester"
   },
   {
-    "fileName": "Fife.jpg",
+    "fileName": "../images/Fife.jpg",
     "slug": "fife",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "FIF",
@@ -1033,7 +1033,7 @@
     "councilName": "Fife"
   },
   {
-    "fileName": "Barnsley.jpg",
+    "fileName": "../images/Barnsley.jpg",
     "slug": "barnsley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BNS",
@@ -1044,7 +1044,7 @@
     "councilName": "Barnsley"
   },
   {
-    "fileName": "North-Norfolk.jpg",
+    "fileName": "../images/North-Norfolk.jpg",
     "slug": "north-norfolk",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NNO",
@@ -1055,7 +1055,7 @@
     "councilName": "North Norfolk"
   },
   {
-    "fileName": "Malvern-Hills.jpg",
+    "fileName": "../images/Malvern-Hills.jpg",
     "slug": "malvern-hills",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MAV",
@@ -1066,7 +1066,7 @@
     "councilName": "Malvern Hills"
   },
   {
-    "fileName": "Merthyr-Tydfil.jpg",
+    "fileName": "../images/Merthyr-Tydfil.jpg",
     "slug": "merthyr-tydfil",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "MTY",
@@ -1075,7 +1075,7 @@
     "councilName": "Merthyr Tydfil"
   },
   {
-    "fileName": "Neath-Port-Talbot.jpg",
+    "fileName": "../images/Neath-Port-Talbot.jpg",
     "slug": "neath-port-talbot",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "NTL",
@@ -1084,7 +1084,7 @@
     "councilName": "Neath Port Talbot"
   },
   {
-    "fileName": "Argyll-and-Bute.jpg",
+    "fileName": "../images/Argyll-and-Bute.jpg",
     "slug": "argyll-and-bute",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "AGB",
@@ -1094,7 +1094,7 @@
     "councilName": "Argyll and Bute"
   },
   {
-    "fileName": "Aberdeen-City.jpg",
+    "fileName": "../images/Aberdeen-City.jpg",
     "slug": "aberdeen-city",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "ABE",
@@ -1105,7 +1105,7 @@
     "councilName": "Aberdeen City"
   },
   {
-    "fileName": "Fenland.jpg",
+    "fileName": "../images/Fenland.jpg",
     "slug": "fenland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "FEN",
@@ -1115,7 +1115,7 @@
     "councilName": "Fenland"
   },
   {
-    "fileName": "Colchester.jpg",
+    "fileName": "../images/Colchester.jpg",
     "slug": "colchester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "COL",
@@ -1126,7 +1126,7 @@
     "councilName": "Colchester"
   },
   {
-    "fileName": "South-Staffordshire.jpg",
+    "fileName": "../images/South-Staffordshire.jpg",
     "slug": "south-staffordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SST",
@@ -1137,7 +1137,7 @@
     "councilName": "South Staffordshire"
   },
   {
-    "fileName": "Aberdeenshire.jpg",
+    "fileName": "../images/Aberdeenshire.jpg",
     "slug": "aberdeenshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "ABD",
@@ -1148,7 +1148,7 @@
     "councilName": "Aberdeenshire"
   },
   {
-    "fileName": "Flintshire.jpg",
+    "fileName": "../images/Flintshire.jpg",
     "slug": "flintshire",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "FLN",
@@ -1159,7 +1159,7 @@
     "councilName": "Flintshire"
   },
   {
-    "fileName": "Orkney-Islands.jpg",
+    "fileName": "../images/Orkney-Islands.jpg",
     "slug": "orkney-islands",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "ORK",
@@ -1170,7 +1170,7 @@
     "councilName": "Orkney Islands"
   },
   {
-    "fileName": "Sheffield.jpg",
+    "fileName": "../images/Sheffield.jpg",
     "slug": "sheffield",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SHF",
@@ -1180,7 +1180,7 @@
     "councilName": "Sheffield"
   },
   {
-    "fileName": "Torridge.jpg",
+    "fileName": "../images/Torridge.jpg",
     "slug": "torridge",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TOR",
@@ -1190,7 +1190,7 @@
     "councilName": "Torridge"
   },
   {
-    "fileName": "Derbyshire-Dales.jpg",
+    "fileName": "../images/Derbyshire-Dales.jpg",
     "slug": "derbyshire-dales",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DEB",
@@ -1200,7 +1200,7 @@
     "councilName": "Derbyshire Dales"
   },
   {
-    "fileName": "West-Oxfordshire.jpg",
+    "fileName": "../images/West-Oxfordshire.jpg",
     "slug": "west-oxfordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WOX",
@@ -1210,7 +1210,7 @@
     "councilName": "West Oxfordshire"
   },
   {
-    "fileName": "Mid-Suffolk.jpg",
+    "fileName": "../images/Mid-Suffolk.jpg",
     "slug": "mid-suffolk",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MSU",
@@ -1221,7 +1221,7 @@
     "councilName": "Mid Suffolk"
   },
   {
-    "fileName": "North-Lanarkshire.jpg",
+    "fileName": "../images/North-Lanarkshire.jpg",
     "slug": "north-lanarkshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "NLK",
@@ -1231,7 +1231,7 @@
     "councilName": "North Lanarkshire"
   },
   {
-    "fileName": "Calderdale.jpg",
+    "fileName": "../images/Calderdale.jpg",
     "slug": "calderdale",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CLD",
@@ -1242,7 +1242,7 @@
     "councilName": "Calderdale"
   },
   {
-    "fileName": "North-East-Lincolnshire.jpg",
+    "fileName": "../images/North-East-Lincolnshire.jpg",
     "slug": "north-east-lincolnshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NEL",
@@ -1253,7 +1253,7 @@
     "councilName": "North East Lincolnshire"
   },
   {
-    "fileName": "North-Lincolnshire.jpg",
+    "fileName": "../images/North-Lincolnshire.jpg",
     "slug": "north-lincolnshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NLN",
@@ -1264,7 +1264,7 @@
     "councilName": "North Lincolnshire"
   },
   {
-    "fileName": "South-Derbyshire.jpg",
+    "fileName": "../images/South-Derbyshire.jpg",
     "slug": "south-derbyshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SDE",
@@ -1274,7 +1274,7 @@
     "councilName": "South Derbyshire"
   },
   {
-    "fileName": "Amber-Valley.jpg",
+    "fileName": "../images/Amber-Valley.jpg",
     "slug": "amber-valley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "AMB",
@@ -1284,7 +1284,7 @@
     "councilName": "Amber Valley"
   },
   {
-    "fileName": "Lisburn-and-Castlereagh.jpg",
+    "fileName": "../images/Lisburn-and-Castlereagh.jpg",
     "slug": "lisburn-and-castlereagh",
     "localAuthorityCountry": "ni",
     "localAuthorityCode": "LBC",
@@ -1295,7 +1295,7 @@
     "councilName": "Lisburn and Castlereagh City"
   },
   {
-    "fileName": "Somerset-West-and-Taunton.jpg",
+    "fileName": "../images/Somerset-West-and-Taunton.jpg",
     "slug": "somerset-west-and-taunton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SWT",
@@ -1306,7 +1306,7 @@
     "councilName": "Somerset West and Taunton"
   },
   {
-    "fileName": "Winchester.jpg",
+    "fileName": "../images/Winchester.jpg",
     "slug": "winchester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WIN",
@@ -1315,7 +1315,7 @@
     "councilName": "Winchester"
   },
   {
-    "fileName": "Eastleigh.jpg",
+    "fileName": "../images/Eastleigh.jpg",
     "slug": "eastleigh",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EAT",
@@ -1324,7 +1324,7 @@
     "councilName": "Eastleigh"
   },
   {
-    "fileName": "Southampton.jpg",
+    "fileName": "../images/Southampton.jpg",
     "slug": "southampton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STH",
@@ -1333,7 +1333,7 @@
     "councilName": "Southampton"
   },
   {
-    "fileName": "Forest-of-Dean.jpg",
+    "fileName": "../images/Forest-of-Dean.jpg",
     "slug": "forest-of-dean",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "FOE",
@@ -1344,7 +1344,7 @@
     "councilName": "Forest of Dean"
   },
   {
-    "fileName": "Cheltenham.jpg",
+    "fileName": "../images/Cheltenham.jpg",
     "slug": "cheltenham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHT",
@@ -1355,7 +1355,7 @@
     "councilName": "Cheltenham"
   },
   {
-    "fileName": "Belfast.jpg",
+    "fileName": "../images/Belfast.jpg",
     "slug": "belfast",
     "localAuthorityCountry": "ni",
     "localAuthorityCode": "BFS",
@@ -1366,7 +1366,7 @@
     "councilName": "Belfast City"
   },
   {
-    "fileName": "Falkirk.jpg",
+    "fileName": "../images/Falkirk.jpg",
     "slug": "falkirk",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "FAL",
@@ -1377,7 +1377,7 @@
     "councilName": "Falkirk"
   },
   {
-    "fileName": "Powys.jpg",
+    "fileName": "../images/Powys.jpg",
     "slug": "powys",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "POW",
@@ -1388,7 +1388,7 @@
     "councilName": "Powys"
   },
   {
-    "fileName": "East-Suffolk.jpg",
+    "fileName": "../images/East-Suffolk.jpg",
     "slug": "east-suffolk",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ESK",
@@ -1399,7 +1399,7 @@
     "councilName": "East Suffolk"
   },
   {
-    "fileName": "Bassetlaw.jpg",
+    "fileName": "../images/Bassetlaw.jpg",
     "slug": "bassetlaw",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BAE",
@@ -1410,7 +1410,7 @@
     "councilName": "Bassetlaw"
   },
   {
-    "fileName": "Bradford.jpg",
+    "fileName": "../images/Bradford.jpg",
     "slug": "bradford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRD",
@@ -1421,7 +1421,7 @@
     "councilName": "Bradford"
   },
   {
-    "fileName": "City-of-Lincoln.jpg",
+    "fileName": "../images/City-of-Lincoln.jpg",
     "slug": "city-of-lincoln",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LIC",
@@ -1432,7 +1432,7 @@
     "councilName": "City of Lincoln"
   },
   {
-    "fileName": "Portsmouth.jpg",
+    "fileName": "../images/Portsmouth.jpg",
     "slug": "portsmouth",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "POR",
@@ -1443,7 +1443,7 @@
     "councilName": "Portsmouth"
   },
   {
-    "fileName": "Doncaster.jpg",
+    "fileName": "../images/Doncaster.jpg",
     "slug": "doncaster",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DNC",
@@ -1454,7 +1454,7 @@
     "councilName": "Doncaster"
   },
   {
-    "fileName": "Cheshire-West-and-Chester.jpg",
+    "fileName": "../images/Cheshire-West-and-Chester.jpg",
     "slug": "cheshire-west-and-chester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHW",
@@ -1465,7 +1465,7 @@
     "councilName": "Cheshire West and Chester"
   },
   {
-    "fileName": "Telford-and-Wrekin.jpg",
+    "fileName": "../images/Telford-and-Wrekin.jpg",
     "slug": "telford-and-wrekin",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TFW",
@@ -1476,7 +1476,7 @@
     "councilName": "Telford and Wrekin"
   },
   {
-    "fileName": "Angus.jpg",
+    "fileName": "../images/Angus.jpg",
     "slug": "angus",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "ANS",
@@ -1487,7 +1487,7 @@
     "councilName": "Angus"
   },
   {
-    "fileName": "Kings-Lynn-and-West-Norfolk.jpg",
+    "fileName": "../images/Kings-Lynn-and-West-Norfolk.jpg",
     "slug": "kings-lynn-and-west-norfolk",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KIN",
@@ -1498,7 +1498,7 @@
     "councilName": "King's Lynn and West Norfolk"
   },
   {
-    "fileName": "North-Devon.jpg",
+    "fileName": "../images/North-Devon.jpg",
     "slug": "north-devon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NDE",
@@ -1509,7 +1509,7 @@
     "councilName": "North Devon"
   },
   {
-    "fileName": "Stroud.jpg",
+    "fileName": "../images/Stroud.jpg",
     "slug": "stroud",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STO",
@@ -1520,7 +1520,7 @@
     "councilName": "Stroud"
   },
   {
-    "fileName": "East-Riding-of-Yorkshire.jpg",
+    "fileName": "../images/East-Riding-of-Yorkshire.jpg",
     "slug": "east-riding-of-yorkshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ERY",
@@ -1531,7 +1531,7 @@
     "councilName": "East Riding of Yorkshire"
   },
   {
-    "fileName": "Wakefield.jpg",
+    "fileName": "../images/Wakefield.jpg",
     "slug": "wakefield",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WKF",
@@ -1542,7 +1542,7 @@
     "councilName": "Wakefield"
   },
   {
-    "fileName": "East-Lindsey.jpg",
+    "fileName": "../images/East-Lindsey.jpg",
     "slug": "east-lindsey",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ELI",
@@ -1553,7 +1553,7 @@
     "councilName": "East Lindsey"
   },
   {
-    "fileName": "Cheshire-East.jpg",
+    "fileName": "../images/Cheshire-East.jpg",
     "slug": "cheshire-east",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHE",
@@ -1562,7 +1562,7 @@
     "councilName": "Cheshire East"
   },
   {
-    "fileName": "Coventry.jpg",
+    "fileName": "../images/Coventry.jpg",
     "slug": "coventry",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "COV",
@@ -1571,7 +1571,7 @@
     "councilName": "Coventry"
   },
   {
-    "fileName": "Bromsgrove.jpg",
+    "fileName": "../images/Bromsgrove.jpg",
     "slug": "bromsgrove",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRM",
@@ -1580,7 +1580,7 @@
     "councilName": "Bromsgrove"
   },
   {
-    "fileName": "Rushmoor.jpg",
+    "fileName": "../images/Rushmoor.jpg",
     "slug": "rushmoor",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RUH",
@@ -1589,7 +1589,7 @@
     "councilName": "Rushmoor"
   },
   {
-    "fileName": "Antrim-and-Newtownabbey.jpg",
+    "fileName": "../images/Antrim-and-Newtownabbey.jpg",
     "slug": "antrim-and-newtownabbey",
     "localAuthorityCountry": "ni",
     "localAuthorityCode": "ANN",
@@ -1598,7 +1598,7 @@
     "colour": "220-blue"
   },
   {
-    "fileName": "Conwy.jpg",
+    "fileName": "../images/Conwy.jpg",
     "slug": "conwy",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "CWY",
@@ -1609,7 +1609,7 @@
     "councilName": "Conwy"
   },
   {
-    "fileName": "Arun.jpg",
+    "fileName": "../images/Arun.jpg",
     "slug": "arun",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ARU",
@@ -1618,14 +1618,14 @@
     "councilName": "Arun"
   },
   {
-    "fileName": "Adur-and-Worthing.jpg",
+    "fileName": "../images/Adur-and-Worthing.jpg",
     "slug": "adur-and-worthing",
     "councilName": "Adur and Worthing",
     "collectionDate": "15 February 2020",
     "colour": "777-grayscale"
   },
   {
-    "fileName": "Chichester.jpg",
+    "fileName": "../images/Chichester.jpg",
     "slug": "chichester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHI",
@@ -1634,7 +1634,7 @@
     "councilName": "Chichester"
   },
   {
-    "fileName": "Horsham.jpg",
+    "fileName": "../images/Horsham.jpg",
     "slug": "horsham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HOR",
@@ -1643,7 +1643,7 @@
     "councilName": "Horsham"
   },
   {
-    "fileName": "Crawley.jpg",
+    "fileName": "../images/Crawley.jpg",
     "slug": "crawley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CRW",
@@ -1652,7 +1652,7 @@
     "councilName": "Crawley"
   },
   {
-    "fileName": "Eastbourne.jpg",
+    "fileName": "../images/Eastbourne.jpg",
     "slug": "eastbourne",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EAS",
@@ -1661,7 +1661,7 @@
     "councilName": "Eastbourne"
   },
   {
-    "fileName": "Wealden.jpg",
+    "fileName": "../images/Wealden.jpg",
     "slug": "wealden",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WEA",
@@ -1670,7 +1670,7 @@
     "councilName": "Wealden"
   },
   {
-    "fileName": "Lewes.jpg",
+    "fileName": "../images/Lewes.jpg",
     "slug": "lewes",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LEE",
@@ -1679,7 +1679,7 @@
     "councilName": "Lewes"
   },
   {
-    "fileName": "Solihull.jpg",
+    "fileName": "../images/Solihull.jpg",
     "slug": "solihull",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SOL",
@@ -1688,7 +1688,7 @@
     "councilName": "Solihull"
   },
   {
-    "fileName": "Sandwell.jpg",
+    "fileName": "../images/Sandwell.jpg",
     "slug": "sandwell",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SAW",
@@ -1697,7 +1697,7 @@
     "councilName": "Sandwell"
   },
   {
-    "fileName": "Wolverhampton.jpg",
+    "fileName": "../images/Wolverhampton.jpg",
     "slug": "wolverhampton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WLV",
@@ -1706,7 +1706,7 @@
     "councilName": "Wolverhampton"
   },
   {
-    "fileName": "Sevenoaks.jpg",
+    "fileName": "../images/Sevenoaks.jpg",
     "slug": "sevenoaks",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SEV",
@@ -1715,7 +1715,7 @@
     "councilName": "Sevenoaks"
   },
   {
-    "fileName": "North-Somerset.jpg",
+    "fileName": "../images/North-Somerset.jpg",
     "slug": "north-somerset",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NSM",
@@ -1724,7 +1724,7 @@
     "councilName": "North Somerset"
   },
   {
-    "fileName": "Southwark.jpg",
+    "fileName": "../images/Southwark.jpg",
     "slug": "southwark",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SWK",
@@ -1733,7 +1733,7 @@
     "councilName": "Southwark"
   },
   {
-    "fileName": "Thanet.jpg",
+    "fileName": "../images/Thanet.jpg",
     "slug": "thanet",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "THA",
@@ -1742,7 +1742,7 @@
     "councilName": "Thanet"
   },
   {
-    "fileName": "Canterbury.jpg",
+    "fileName": "../images/Canterbury.jpg",
     "slug": "canterbury",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CAT",
@@ -1751,7 +1751,7 @@
     "councilName": "Canterbury"
   },
   {
-    "fileName": "Swale.jpg",
+    "fileName": "../images/Swale.jpg",
     "slug": "swale",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SWL",
@@ -1760,7 +1760,7 @@
     "councilName": "Swale"
   },
   {
-    "fileName": "Ashford.jpg",
+    "fileName": "../images/Ashford.jpg",
     "slug": "ashford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ASF",
@@ -1769,7 +1769,7 @@
     "councilName": "Ashford"
   },
   {
-    "fileName": "Folkestone-and-Hythe.jpg",
+    "fileName": "../images/Folkestone-and-Hythe.jpg",
     "slug": "folkestone-and-hythe",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SHE",
@@ -1778,7 +1778,7 @@
     "councilName": "Folkestone and Hythe"
   },
   {
-    "fileName": "Dover.jpg",
+    "fileName": "../images/Dover.jpg",
     "slug": "dover",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DOV",
@@ -1787,7 +1787,7 @@
     "councilName": "Dover"
   },
   {
-    "fileName": "Uttlesford.jpg",
+    "fileName": "../images/Uttlesford.jpg",
     "slug": "uttlesford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "UTT",
@@ -1796,7 +1796,7 @@
     "councilName": "Uttlesford"
   },
   {
-    "fileName": "South-Gloucestershire.jpg",
+    "fileName": "../images/South-Gloucestershire.jpg",
     "slug": "south-gloucestershire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SGC",
@@ -1805,7 +1805,7 @@
     "councilName": "South Gloucestershire"
   },
   {
-    "fileName": "Somerset.jpg",
+    "fileName": "../images/Somerset.jpg",
     "slug": "somerset",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SOM",
@@ -1814,7 +1814,7 @@
     "councilName": "Somerset"
   },
   {
-    "fileName": "Brentwood.jpg",
+    "fileName": "../images/Brentwood.jpg",
     "slug": "brentwood",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRW",
@@ -1823,7 +1823,7 @@
     "councilName": "Brentwood"
   },
   {
-    "fileName": "Chelmsford.jpg",
+    "fileName": "../images/Chelmsford.jpg",
     "slug": "chelmsford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHL",
@@ -1832,7 +1832,7 @@
     "councilName": "Chelmsford"
   },
   {
-    "fileName": "Maldon.jpg",
+    "fileName": "../images/Maldon.jpg",
     "slug": "maldon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MAL",
@@ -1841,7 +1841,7 @@
     "councilName": "Maldon"
   },
   {
-    "fileName": "Braintree.jpg",
+    "fileName": "../images/Braintree.jpg",
     "slug": "braintree",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRA",
@@ -1850,7 +1850,7 @@
     "councilName": "Braintree"
   },
   {
-    "fileName": "Derry-City-and-Strabane.jpg",
+    "fileName": "../images/Derry-City-and-Strabane.jpg",
     "slug": "derry-city-and-strabane",
     "localAuthorityCountry": "ni",
     "localAuthorityCode": "DRS",
@@ -1859,7 +1859,7 @@
     "colour": "610-brown"
   },
   {
-    "fileName": "Test-Valley.jpg",
+    "fileName": "../images/Test-Valley.jpg",
     "slug": "test-valley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TES",
@@ -1868,7 +1868,7 @@
     "councilName": "Test Valley"
   },
   {
-    "fileName": "Basingstoke-and-Deane.jpg",
+    "fileName": "../images/Basingstoke-and-Deane.jpg",
     "slug": "basingstoke-and-deane",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BAN",
@@ -1877,7 +1877,7 @@
     "councilName": "Basingstoke and Deane"
   },
   {
-    "fileName": "Stevenage.jpg",
+    "fileName": "../images/Stevenage.jpg",
     "slug": "stevenage",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STV",
@@ -1886,7 +1886,7 @@
     "councilName": "Stevenage"
   },
   {
-    "fileName": "North-Hertfordshire.jpg",
+    "fileName": "../images/North-Hertfordshire.jpg",
     "slug": "north-hertfordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NHE",
@@ -1895,7 +1895,7 @@
     "councilName": "North Hertfordshire"
   },
   {
-    "fileName": "Harlow.jpg",
+    "fileName": "../images/Harlow.jpg",
     "slug": "harlow",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAR",
@@ -1904,7 +1904,7 @@
     "councilName": "Harlow"
   },
   {
-    "fileName": "South-Cambridgeshire.jpg",
+    "fileName": "../images/South-Cambridgeshire.jpg",
     "slug": "south-cambridgeshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SCA",
@@ -1913,7 +1913,7 @@
     "councilName": "South Cambridgeshire"
   },
   {
-    "fileName": "Cambridge.jpg",
+    "fileName": "../images/Cambridge.jpg",
     "slug": "cambridge",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CAB",
@@ -1922,7 +1922,7 @@
     "councilName": "Cambridge"
   },
   {
-    "fileName": "West-Suffolk.jpg",
+    "fileName": "../images/West-Suffolk.jpg",
     "slug": "west-suffolk",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WSK",
@@ -1931,7 +1931,7 @@
     "councilName": "West Suffolk"
   },
   {
-    "fileName": "Welwyn-Hatfield.jpg",
+    "fileName": "../images/Welwyn-Hatfield.jpg",
     "slug": "welwyn-hatfield",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WEW",
@@ -1940,7 +1940,7 @@
     "councilName": "Welwyn Hatfield"
   },
   {
-    "fileName": "Cardiff.jpg",
+    "fileName": "../images/Cardiff.jpg",
     "slug": "cardiff",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "CRF",
@@ -1949,7 +1949,7 @@
     "councilName": "Cardiff"
   },
   {
-    "fileName": "Newport.jpg",
+    "fileName": "../images/Newport.jpg",
     "slug": "newport",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "NWP",
@@ -1958,7 +1958,7 @@
     "councilName": "Newport"
   },
   {
-    "fileName": "Caerphilly.jpg",
+    "fileName": "../images/Caerphilly.jpg",
     "slug": "caerphilly",
     "localAuthorityCountry": "wls",
     "localAuthorityCode": "CAY",
@@ -1967,7 +1967,7 @@
     "councilName": "Caerphilly"
   },
   {
-    "fileName": "Shropshire.jpg",
+    "fileName": "../images/Shropshire.jpg",
     "slug": "shropshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SHR",
@@ -1976,7 +1976,7 @@
     "councilName": "Shropshire"
   },
   {
-    "fileName": "Carlisle.jpg",
+    "fileName": "../images/Carlisle.jpg",
     "slug": "carlisle",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CAR",
@@ -1985,7 +1985,7 @@
     "councilName": "Carlisle"
   },
   {
-    "fileName": "Leeds.jpg",
+    "fileName": "../images/Leeds.jpg",
     "slug": "leeds",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LDS",
@@ -1994,7 +1994,7 @@
     "councilName": "Leeds"
   },
   {
-    "fileName": "Sutton.jpg",
+    "fileName": "../images/Sutton.jpg",
     "slug": "sutton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STN",
@@ -2003,7 +2003,7 @@
     "councilName": "Sutton"
   },
   {
-    "fileName": "Rother.jpg",
+    "fileName": "../images/Rother.jpg",
     "slug": "rother",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ROH",
@@ -2012,7 +2012,7 @@
     "councilName": "Rother"
   },
   {
-    "fileName": "Hastings.jpg",
+    "fileName": "../images/Hastings.jpg",
     "slug": "hastings",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAS",
@@ -2021,7 +2021,7 @@
     "councilName": "Hastings"
   },
   {
-    "fileName": "Midlothian.jpg",
+    "fileName": "../images/Midlothian.jpg",
     "slug": "midlothian",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "MLN",
@@ -2030,7 +2030,7 @@
     "councilName": "Midlothian"
   },
   {
-    "fileName": "East-Lothian.jpg",
+    "fileName": "../images/East-Lothian.jpg",
     "slug": "east-lothian",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "ELN",
@@ -2039,7 +2039,7 @@
     "councilName": "East Lothian"
   },
   {
-    "fileName": "Edinburgh.jpg",
+    "fileName": "../images/Edinburgh.jpg",
     "slug": "edinburgh",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "EDH",
@@ -2048,7 +2048,7 @@
     "councilName": "Edinburgh"
   },
   {
-    "fileName": "West-Lothian.jpg",
+    "fileName": "../images/West-Lothian.jpg",
     "slug": "west-lothian",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "WLN",
@@ -2057,7 +2057,7 @@
     "councilName": "West Lothian"
   },
   {
-    "fileName": "Waverley.jpg",
+    "fileName": "../images/Waverley.jpg",
     "slug": "waverley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WAE",
@@ -2066,7 +2066,7 @@
     "councilName": "Waverley"
   },
   {
-    "fileName": "Greenwich.jpg",
+    "fileName": "../images/Greenwich.jpg",
     "slug": "greenwich",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "GRE",
@@ -2075,7 +2075,7 @@
     "councilName": "Greenwich"
   },
   {
-    "fileName": "Blackpool.jpg",
+    "fileName": "../images/Blackpool.jpg",
     "slug": "blackpool",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BPL",
@@ -2084,7 +2084,7 @@
     "councilName": "Blackpool"
   },
   {
-    "fileName": "Wyre.jpg",
+    "fileName": "../images/Wyre.jpg",
     "slug": "wyre",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WYR",
@@ -2093,7 +2093,7 @@
     "councilName": "Wyre"
   },
   {
-    "fileName": "Fylde.jpg",
+    "fileName": "../images/Fylde.jpg",
     "slug": "fylde",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "FYL",
@@ -2102,7 +2102,7 @@
     "councilName": "Fylde"
   },
   {
-    "fileName": "York.jpg",
+    "fileName": "../images/York.jpg",
     "slug": "york",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "YOR",
@@ -2111,7 +2111,7 @@
     "councilName": "York"
   },
   {
-    "fileName": "Hambleton.jpg",
+    "fileName": "../images/Hambleton.jpg",
     "slug": "hambleton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAE",
@@ -2120,7 +2120,7 @@
     "councilName": "Hambleton"
   },
   {
-    "fileName": "Epping-Forest.jpg",
+    "fileName": "../images/Epping-Forest.jpg",
     "slug": "epping-forest",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EPP",
@@ -2129,7 +2129,7 @@
     "councilName": "Epping Forest"
   },
   {
-    "fileName": "Westminster.jpg",
+    "fileName": "../images/Westminster.jpg",
     "slug": "westminster",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WSM",
@@ -2138,7 +2138,7 @@
     "councilName": "Westminster"
   },
   {
-    "fileName": "Norwich.jpg",
+    "fileName": "../images/Norwich.jpg",
     "slug": "norwich",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NOW",
@@ -2147,7 +2147,7 @@
     "councilName": "Norwich"
   },
   {
-    "fileName": "East-Cambridgeshire.jpg",
+    "fileName": "../images/East-Cambridgeshire.jpg",
     "slug": "east-cambridgeshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ECA",
@@ -2156,7 +2156,7 @@
     "councilName": "East Cambridgeshire"
   },
   {
-    "fileName": "Bath-and-North-East-Somerset.jpg",
+    "fileName": "../images/Bath-and-North-East-Somerset.jpg",
     "slug": "bath-and-north-east-somerset",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BAS",
@@ -2165,7 +2165,7 @@
     "councilName": "Bath and North East Somerset"
   },
   {
-    "fileName": "South-Oxfordshire.jpg",
+    "fileName": "../images/South-Oxfordshire.jpg",
     "slug": "south-oxfordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SOX",
@@ -2174,7 +2174,7 @@
     "councilName": "South Oxfordshire"
   },
   {
-    "fileName": "West-Berkshire.jpg",
+    "fileName": "../images/West-Berkshire.jpg",
     "slug": "west-berkshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WBK",
@@ -2183,7 +2183,7 @@
     "councilName": "West Berkshire"
   },
   {
-    "fileName": "Reading.jpg",
+    "fileName": "../images/Reading.jpg",
     "slug": "reading",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RDG",
@@ -2192,7 +2192,7 @@
     "councilName": "Reading"
   },
   {
-    "fileName": "Wokingham.jpg",
+    "fileName": "../images/Wokingham.jpg",
     "slug": "wokingham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WOK",
@@ -2201,7 +2201,7 @@
     "councilName": "Wokingham"
   },
   {
-    "fileName": "Bracknell-Forest.jpg",
+    "fileName": "../images/Bracknell-Forest.jpg",
     "slug": "bracknell-forest",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRC",
@@ -2210,7 +2210,7 @@
     "councilName": "Bracknell Forest"
   },
   {
-    "fileName": "Hounslow.jpg",
+    "fileName": "../images/Hounslow.jpg",
     "slug": "hounslow",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HNS",
@@ -2219,7 +2219,7 @@
     "councilName": "Hounslow"
   },
   {
-    "fileName": "City-of-Bristol.jpg",
+    "fileName": "../images/City-of-Bristol.jpg",
     "slug": "city-of-bristol",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BST",
@@ -2228,7 +2228,7 @@
     "councilName": "City of Bristol"
   },
   {
-    "fileName": "Exeter.jpg",
+    "fileName": "../images/Exeter.jpg",
     "slug": "exeter",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EXE",
@@ -2237,7 +2237,7 @@
     "councilName": "Exeter"
   },
   {
-    "fileName": "Mid-Devon.jpg",
+    "fileName": "../images/Mid-Devon.jpg",
     "slug": "mid-devon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MDE",
@@ -2246,7 +2246,7 @@
     "councilName": "Mid Devon"
   },
   {
-    "fileName": "Wiltshire.jpg",
+    "fileName": "../images/Wiltshire.jpg",
     "slug": "wiltshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WIL",
@@ -2255,7 +2255,7 @@
     "councilName": "Wiltshire"
   },
   {
-    "fileName": "Gateshead.jpg",
+    "fileName": "../images/Gateshead.jpg",
     "slug": "gateshead",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "GAT",
@@ -2264,7 +2264,7 @@
     "councilName": "Gateshead"
   },
   {
-    "fileName": "South-Tyneside.jpg",
+    "fileName": "../images/South-Tyneside.jpg",
     "slug": "south-tyneside",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STY",
@@ -2273,7 +2273,7 @@
     "councilName": "South Tyneside"
   },
   {
-    "fileName": "Sunderland.jpg",
+    "fileName": "../images/Sunderland.jpg",
     "slug": "sunderland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SND",
@@ -2282,7 +2282,7 @@
     "councilName": "Sunderland"
   },
   {
-    "fileName": "Hartlepool.jpg",
+    "fileName": "../images/Hartlepool.jpg",
     "slug": "hartlepool",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HPL",
@@ -2291,7 +2291,7 @@
     "councilName": "Hartlepool"
   },
   {
-    "fileName": "Redcar-and-Cleveland.jpg",
+    "fileName": "../images/Redcar-and-Cleveland.jpg",
     "slug": "redcar-and-cleveland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RCC",
@@ -2300,7 +2300,7 @@
     "councilName": "Redcar and Cleveland"
   },
   {
-    "fileName": "Middlesbrough.jpg",
+    "fileName": "../images/Middlesbrough.jpg",
     "slug": "middlesbrough",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MDB",
@@ -2309,7 +2309,7 @@
     "councilName": "Middlesbrough"
   },
   {
-    "fileName": "Stockton-on-Tees.jpg",
+    "fileName": "../images/Stockton-on-Tees.jpg",
     "slug": "stockton-on-tees",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STT",
@@ -2318,7 +2318,7 @@
     "councilName": "Stockton-on-Tees"
   },
   {
-    "fileName": "Darlington.jpg",
+    "fileName": "../images/Darlington.jpg",
     "slug": "darlington",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DAL",
@@ -2327,7 +2327,7 @@
     "councilName": "Darlington"
   },
   {
-    "fileName": "Richmondshire.jpg",
+    "fileName": "../images/Richmondshire.jpg",
     "slug": "richmondshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RIH",
@@ -2336,7 +2336,7 @@
     "councilName": "Richmondshire"
   },
   {
-    "fileName": "County-Durham.jpg",
+    "fileName": "../images/County-Durham.jpg",
     "slug": "county-durham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DUR",
@@ -2345,14 +2345,14 @@
     "councilName": "County Durham"
   },
   {
-    "fileName": "City-of-Durham.jpg",
+    "fileName": "../images/City-of-Durham.jpg",
     "slug": "city-of-durham",
     "councilName": "City of Durham",
     "collectionDate": "20 October 2018",
     "colour": "748-grayscale"
   },
   {
-    "fileName": "Sedgemoor.jpg",
+    "fileName": "../images/Sedgemoor.jpg",
     "slug": "sedgemoor",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SEG",
@@ -2361,7 +2361,7 @@
     "councilName": "Sedgemoor"
   },
   {
-    "fileName": "Oxford.jpg",
+    "fileName": "../images/Oxford.jpg",
     "slug": "oxford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "OXO",
@@ -2370,7 +2370,7 @@
     "councilName": "Oxford"
   },
   {
-    "fileName": "Islington.jpg",
+    "fileName": "../images/Islington.jpg",
     "slug": "islington",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ISL",
@@ -2379,7 +2379,7 @@
     "councilName": "Islington"
   },
   {
-    "fileName": "Kensington-and-Chelsea.jpg",
+    "fileName": "../images/Kensington-and-Chelsea.jpg",
     "slug": "kensington-and-chelsea",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KEC",
@@ -2388,7 +2388,7 @@
     "councilName": "Kensington and Chelsea"
   },
   {
-    "fileName": "Merton.jpg",
+    "fileName": "../images/Merton.jpg",
     "slug": "merton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MRT",
@@ -2397,7 +2397,7 @@
     "councilName": "Merton"
   },
   {
-    "fileName": "Kingston-upon-Thames.jpg",
+    "fileName": "../images/Kingston-upon-Thames.jpg",
     "slug": "kingston-upon-thames",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KTT",
@@ -2406,7 +2406,7 @@
     "councilName": "Kingston upon Thames"
   },
   {
-    "fileName": "Surrey-Heath.jpg",
+    "fileName": "../images/Surrey-Heath.jpg",
     "slug": "surrey-heath",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SUR",
@@ -2415,7 +2415,7 @@
     "councilName": "Surrey Heath"
   },
   {
-    "fileName": "Woking.jpg",
+    "fileName": "../images/Woking.jpg",
     "slug": "woking",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WOI",
@@ -2424,7 +2424,7 @@
     "councilName": "Woking"
   },
   {
-    "fileName": "Runnymede.jpg",
+    "fileName": "../images/Runnymede.jpg",
     "slug": "runnymede",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RUN",
@@ -2433,7 +2433,7 @@
     "councilName": "Runnymede"
   },
   {
-    "fileName": "Camden.jpg",
+    "fileName": "../images/Camden.jpg",
     "slug": "camden",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CMD",
@@ -2442,7 +2442,7 @@
     "councilName": "Camden"
   },
   {
-    "fileName": "Tower-Hamlets.jpg",
+    "fileName": "../images/Tower-Hamlets.jpg",
     "slug": "tower-hamlets",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TWH",
@@ -2451,7 +2451,7 @@
     "councilName": "Tower Hamlets"
   },
   {
-    "fileName": "Richmond-upon-Thames.jpg",
+    "fileName": "../images/Richmond-upon-Thames.jpg",
     "slug": "richmond-upon-thames",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RIC",
@@ -2460,7 +2460,7 @@
     "councilName": "Richmond upon Thames"
   },
   {
-    "fileName": "Lewisham.jpg",
+    "fileName": "../images/Lewisham.jpg",
     "slug": "lewisham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LEW",
@@ -2469,7 +2469,7 @@
     "councilName": "Lewisham"
   },
   {
-    "fileName": "Croydon.jpg",
+    "fileName": "../images/Croydon.jpg",
     "slug": "croydon",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CRY",
@@ -2478,7 +2478,7 @@
     "councilName": "Croydon"
   },
   {
-    "fileName": "Bromley.jpg",
+    "fileName": "../images/Bromley.jpg",
     "slug": "bromley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRY",
@@ -2487,7 +2487,7 @@
     "councilName": "Bromley"
   },
   {
-    "fileName": "Newham.jpg",
+    "fileName": "../images/Newham.jpg",
     "slug": "newham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NWM",
@@ -2496,7 +2496,7 @@
     "councilName": "Newham"
   },
   {
-    "fileName": "Windsor-and-Maidenhead.jpg",
+    "fileName": "../images/Windsor-and-Maidenhead.jpg",
     "slug": "windsor-and-maidenhead",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WNM",
@@ -2505,7 +2505,7 @@
     "councilName": "Windsor and Maidenhead"
   },
   {
-    "fileName": "Slough.jpg",
+    "fileName": "../images/Slough.jpg",
     "slug": "slough",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SLG",
@@ -2514,7 +2514,7 @@
     "councilName": "Slough"
   },
   {
-    "fileName": "Nottingham.jpg",
+    "fileName": "../images/Nottingham.jpg",
     "slug": "nottingham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NGM",
@@ -2523,7 +2523,7 @@
     "councilName": "Nottingham"
   },
   {
-    "fileName": "Broxtowe.jpg",
+    "fileName": "../images/Broxtowe.jpg",
     "slug": "broxtowe",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRT",
@@ -2532,7 +2532,7 @@
     "councilName": "Broxtowe"
   },
   {
-    "fileName": "Rushcliffe.jpg",
+    "fileName": "../images/Rushcliffe.jpg",
     "slug": "rushcliffe",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RUS",
@@ -2541,7 +2541,7 @@
     "councilName": "Rushcliffe"
   },
   {
-    "fileName": "Gedling.jpg",
+    "fileName": "../images/Gedling.jpg",
     "slug": "gedling",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "GED",
@@ -2550,7 +2550,7 @@
     "councilName": "Gedling"
   },
   {
-    "fileName": "Leicester.jpg",
+    "fileName": "../images/Leicester.jpg",
     "slug": "leicester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LCE",
@@ -2559,7 +2559,7 @@
     "councilName": "Leicester"
   },
   {
-    "fileName": "Barnet.jpg",
+    "fileName": "../images/Barnet.jpg",
     "slug": "barnet",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BNE",
@@ -2568,7 +2568,7 @@
     "councilName": "Barnet"
   },
   {
-    "fileName": "Bury.jpg",
+    "fileName": "../images/Bury.jpg",
     "slug": "bury",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BUR",
@@ -2577,7 +2577,7 @@
     "councilName": "Bury"
   },
   {
-    "fileName": "Salford.jpg",
+    "fileName": "../images/Salford.jpg",
     "slug": "salford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SLF",
@@ -2586,7 +2586,7 @@
     "councilName": "Salford"
   },
   {
-    "fileName": "Rochdale.jpg",
+    "fileName": "../images/Rochdale.jpg",
     "slug": "rochdale",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "RCH",
@@ -2595,7 +2595,7 @@
     "councilName": "Rochdale"
   },
   {
-    "fileName": "Oldham.jpg",
+    "fileName": "../images/Oldham.jpg",
     "slug": "oldham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "OLD",
@@ -2604,7 +2604,7 @@
     "councilName": "Oldham"
   },
   {
-    "fileName": "Tameside.jpg",
+    "fileName": "../images/Tameside.jpg",
     "slug": "tameside",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TAM",
@@ -2613,7 +2613,7 @@
     "councilName": "Tameside"
   },
   {
-    "fileName": "Stockport.jpg",
+    "fileName": "../images/Stockport.jpg",
     "slug": "stockport",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SKP",
@@ -2622,7 +2622,7 @@
     "councilName": "Stockport"
   },
   {
-    "fileName": "Manchester.jpg",
+    "fileName": "../images/Manchester.jpg",
     "slug": "manchester",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MAN",
@@ -2631,7 +2631,7 @@
     "councilName": "Manchester"
   },
   {
-    "fileName": "Trafford.jpg",
+    "fileName": "../images/Trafford.jpg",
     "slug": "trafford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TRF",
@@ -2640,7 +2640,7 @@
     "councilName": "Trafford"
   },
   {
-    "fileName": "Wigan.jpg",
+    "fileName": "../images/Wigan.jpg",
     "slug": "wigan",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WGN",
@@ -2649,7 +2649,7 @@
     "councilName": "Wigan"
   },
   {
-    "fileName": "Knowsley.jpg",
+    "fileName": "../images/Knowsley.jpg",
     "slug": "knowsley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "KWL",
@@ -2658,7 +2658,7 @@
     "councilName": "Knowsley"
   },
   {
-    "fileName": "Warrington.jpg",
+    "fileName": "../images/Warrington.jpg",
     "slug": "warrington",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WRT",
@@ -2667,7 +2667,7 @@
     "councilName": "Warrington"
   },
   {
-    "fileName": "Sefton.jpg",
+    "fileName": "../images/Sefton.jpg",
     "slug": "sefton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SFT",
@@ -2676,7 +2676,7 @@
     "councilName": "Sefton"
   },
   {
-    "fileName": "Liverpool.jpg",
+    "fileName": "../images/Liverpool.jpg",
     "slug": "liverpool",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LIV",
@@ -2685,7 +2685,7 @@
     "councilName": "Liverpool"
   },
   {
-    "fileName": "Wirral.jpg",
+    "fileName": "../images/Wirral.jpg",
     "slug": "wirral",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WRL",
@@ -2694,7 +2694,7 @@
     "councilName": "Wirral"
   },
   {
-    "fileName": "St-Helens.jpg",
+    "fileName": "../images/St-Helens.jpg",
     "slug": "st-helens",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SHN",
@@ -2703,7 +2703,7 @@
     "councilName": "St. Helens"
   },
   {
-    "fileName": "Luton.jpg",
+    "fileName": "../images/Luton.jpg",
     "slug": "luton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LUT",
@@ -2712,7 +2712,7 @@
     "councilName": "Luton"
   },
   {
-    "fileName": "Allerdale.jpg",
+    "fileName": "../images/Allerdale.jpg",
     "slug": "allerdale",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ALL",
@@ -2721,7 +2721,7 @@
     "councilName": "Allerdale"
   },
   {
-    "fileName": "Stafford.jpg",
+    "fileName": "../images/Stafford.jpg",
     "slug": "stafford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "STA",
@@ -2730,7 +2730,7 @@
     "councilName": "Stafford"
   },
   {
-    "fileName": "Reigate-and-Banstead.jpg",
+    "fileName": "../images/Reigate-and-Banstead.jpg",
     "slug": "reigate-and-banstead",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "REI",
@@ -2739,7 +2739,7 @@
     "councilName": "Reigate and Banstead"
   },
   {
-    "fileName": "Tandridge.jpg",
+    "fileName": "../images/Tandridge.jpg",
     "slug": "tandridge",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TAN",
@@ -2748,7 +2748,7 @@
     "councilName": "Tandridge"
   },
   {
-    "fileName": "Hackney.jpg",
+    "fileName": "../images/Hackney.jpg",
     "slug": "hackney",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HCK",
@@ -2757,7 +2757,7 @@
     "councilName": "Hackney"
   },
   {
-    "fileName": "Hertsmere.jpg",
+    "fileName": "../images/Hertsmere.jpg",
     "slug": "hertsmere",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HER",
@@ -2766,7 +2766,7 @@
     "councilName": "Hertsmere"
   },
   {
-    "fileName": "Watford.jpg",
+    "fileName": "../images/Watford.jpg",
     "slug": "watford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WAT",
@@ -2775,7 +2775,7 @@
     "councilName": "Watford"
   },
   {
-    "fileName": "Three-Rivers.jpg",
+    "fileName": "../images/Three-Rivers.jpg",
     "slug": "three-rivers",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "THE",
@@ -2784,7 +2784,7 @@
     "councilName": "Three Rivers"
   },
   {
-    "fileName": "Guildford.jpg",
+    "fileName": "../images/Guildford.jpg",
     "slug": "guildford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "GRT",
@@ -2793,7 +2793,7 @@
     "councilName": "Guildford"
   },
   {
-    "fileName": "Mole-Valley.jpg",
+    "fileName": "../images/Mole-Valley.jpg",
     "slug": "mole-valley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MOL",
@@ -2802,7 +2802,7 @@
     "councilName": "Mole Valley"
   },
   {
-    "fileName": "Epsom-and-Ewell.jpg",
+    "fileName": "../images/Epsom-and-Ewell.jpg",
     "slug": "epsom-and-ewell",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EPS",
@@ -2811,7 +2811,7 @@
     "councilName": "Epsom and Ewell"
   },
   {
-    "fileName": "Spelthorne.jpg",
+    "fileName": "../images/Spelthorne.jpg",
     "slug": "spelthorne",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SPE",
@@ -2820,7 +2820,7 @@
     "councilName": "Spelthorne"
   },
   {
-    "fileName": "Tunbridge-Wells.jpg",
+    "fileName": "../images/Tunbridge-Wells.jpg",
     "slug": "tunbridge-wells",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TUN",
@@ -2829,7 +2829,7 @@
     "councilName": "Tunbridge Wells"
   },
   {
-    "fileName": "Maidstone.jpg",
+    "fileName": "../images/Maidstone.jpg",
     "slug": "maidstone",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MAI",
@@ -2838,7 +2838,7 @@
     "councilName": "Maidstone"
   },
   {
-    "fileName": "Tonbridge-and-Malling.jpg",
+    "fileName": "../images/Tonbridge-and-Malling.jpg",
     "slug": "tonbridge-and-malling",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "TON",
@@ -2847,7 +2847,7 @@
     "councilName": "Tonbridge and Malling"
   },
   {
-    "fileName": "Gravesham.jpg",
+    "fileName": "../images/Gravesham.jpg",
     "slug": "gravesham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "GRA",
@@ -2856,7 +2856,7 @@
     "councilName": "Gravesham"
   },
   {
-    "fileName": "Hammersmith-and-Fulham.jpg",
+    "fileName": "../images/Hammersmith-and-Fulham.jpg",
     "slug": "hammersmith-and-fulham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HMF",
@@ -2865,7 +2865,7 @@
     "councilName": "Hammersmith and Fulham"
   },
   {
-    "fileName": "St-Albans.jpg",
+    "fileName": "../images/St-Albans.jpg",
     "slug": "st-albans",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SAL",
@@ -2874,7 +2874,7 @@
     "councilName": "St Albans"
   },
   {
-    "fileName": "Lambeth.jpg",
+    "fileName": "../images/Lambeth.jpg",
     "slug": "lambeth",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LBH",
@@ -2883,7 +2883,7 @@
     "councilName": "Lambeth"
   },
   {
-    "fileName": "Cherwell.jpg",
+    "fileName": "../images/Cherwell.jpg",
     "slug": "cherwell",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHR",
@@ -2892,7 +2892,7 @@
     "councilName": "Cherwell"
   },
   {
-    "fileName": "Dacorum.jpg",
+    "fileName": "../images/Dacorum.jpg",
     "slug": "dacorum",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DAC",
@@ -2901,7 +2901,7 @@
     "councilName": "Dacorum"
   },
   {
-    "fileName": "Ealing.jpg",
+    "fileName": "../images/Ealing.jpg",
     "slug": "ealing",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EAL",
@@ -2910,7 +2910,7 @@
     "councilName": "Ealing"
   },
   {
-    "fileName": "South-Lakeland.jpg",
+    "fileName": "../images/South-Lakeland.jpg",
     "slug": "south-lakeland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SLA",
@@ -2919,7 +2919,7 @@
     "councilName": "South Lakeland"
   },
   {
-    "fileName": "Lancaster.jpg",
+    "fileName": "../images/Lancaster.jpg",
     "slug": "lancaster",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "LAC",
@@ -2928,7 +2928,7 @@
     "councilName": "Lancaster"
   },
   {
-    "fileName": "Preston.jpg",
+    "fileName": "../images/Preston.jpg",
     "slug": "preston",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "PRE",
@@ -2937,7 +2937,7 @@
     "councilName": "Preston"
   },
   {
-    "fileName": "South-Ribble.jpg",
+    "fileName": "../images/South-Ribble.jpg",
     "slug": "south-ribble",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SRI",
@@ -2946,7 +2946,7 @@
     "councilName": "South Ribble"
   },
   {
-    "fileName": "Bolton.jpg",
+    "fileName": "../images/Bolton.jpg",
     "slug": "bolton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BOL",
@@ -2955,7 +2955,7 @@
     "councilName": "Bolton"
   },
   {
-    "fileName": "Chorley.jpg",
+    "fileName": "../images/Chorley.jpg",
     "slug": "chorley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "CHO",
@@ -2964,7 +2964,7 @@
     "councilName": "Chorley"
   },
   {
-    "fileName": "Birmingham.jpg",
+    "fileName": "../images/Birmingham.jpg",
     "slug": "birmingham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BIR",
@@ -2973,7 +2973,7 @@
     "councilName": "Birmingham"
   },
   {
-    "fileName": "Mid-Sussex.jpg",
+    "fileName": "../images/Mid-Sussex.jpg",
     "slug": "mid-sussex",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MSS",
@@ -2982,7 +2982,7 @@
     "councilName": "Mid Sussex"
   },
   {
-    "fileName": "Brighton-and-Hove.jpg",
+    "fileName": "../images/Brighton-and-Hove.jpg",
     "slug": "brighton-and-hove",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BNH",
@@ -2991,7 +2991,7 @@
     "councilName": "Brighton and Hove"
   },
   {
-    "fileName": "South-Somerset.jpg",
+    "fileName": "../images/South-Somerset.jpg",
     "slug": "south-somerset",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "SSO",
@@ -3000,7 +3000,7 @@
     "councilName": "South Somerset"
   },
   {
-    "fileName": "Havering.jpg",
+    "fileName": "../images/Havering.jpg",
     "slug": "havering",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HAV",
@@ -3009,7 +3009,7 @@
     "councilName": "Havering"
   },
   {
-    "fileName": "Barking-and-Dagenham.jpg",
+    "fileName": "../images/Barking-and-Dagenham.jpg",
     "slug": "barking-and-dagenham",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BDG",
@@ -3018,7 +3018,7 @@
     "councilName": "Barking and Dagenham"
   },
   {
-    "fileName": "Elmbridge.jpg",
+    "fileName": "../images/Elmbridge.jpg",
     "slug": "elmbridge",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ELM",
@@ -3027,7 +3027,7 @@
     "councilName": "Elmbridge"
   },
   {
-    "fileName": "Huntingdonshire.jpg",
+    "fileName": "../images/Huntingdonshire.jpg",
     "slug": "huntingdonshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HUN",
@@ -3036,7 +3036,7 @@
     "councilName": "Huntingdonshire"
   },
   {
-    "fileName": "Northumberland.jpg",
+    "fileName": "../images/Northumberland.jpg",
     "slug": "northumberland",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NBL",
@@ -3045,7 +3045,7 @@
     "councilName": "Northumberland"
   },
   {
-    "fileName": "Milton-Keynes.jpg",
+    "fileName": "../images/Milton-Keynes.jpg",
     "slug": "milton-keynes",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MIK",
@@ -3054,7 +3054,7 @@
     "councilName": "Milton Keynes"
   },
   {
-    "fileName": "Dartford.jpg",
+    "fileName": "../images/Dartford.jpg",
     "slug": "dartford",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DAR",
@@ -3063,7 +3063,7 @@
     "councilName": "Dartford"
   },
   {
-    "fileName": "Bexley.jpg",
+    "fileName": "../images/Bexley.jpg",
     "slug": "bexley",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BEX",
@@ -3072,7 +3072,7 @@
     "councilName": "Bexley"
   },
   {
-    "fileName": "Newcastle-upon-Tyne.jpg",
+    "fileName": "../images/Newcastle-upon-Tyne.jpg",
     "slug": "newcastle-upon-tyne",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NET",
@@ -3081,7 +3081,7 @@
     "councilName": "Newcastle upon Tyne"
   },
   {
-    "fileName": "North-Tyneside.jpg",
+    "fileName": "../images/North-Tyneside.jpg",
     "slug": "north-tyneside",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NTY",
@@ -3090,7 +3090,7 @@
     "councilName": "North Tyneside"
   },
   {
-    "fileName": "Harrow.jpg",
+    "fileName": "../images/Harrow.jpg",
     "slug": "harrow",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "HRW",
@@ -3099,7 +3099,7 @@
     "councilName": "Harrow"
   },
   {
-    "fileName": "Brent.jpg",
+    "fileName": "../images/Brent.jpg",
     "slug": "brent",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BEN",
@@ -3108,7 +3108,7 @@
     "councilName": "Brent"
   },
   {
-    "fileName": "Daventry.jpg",
+    "fileName": "../images/Daventry.jpg",
     "slug": "daventry",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "DAV",
@@ -3117,7 +3117,7 @@
     "councilName": "Daventry"
   },
   {
-    "fileName": "Northampton.jpg",
+    "fileName": "../images/Northampton.jpg",
     "slug": "northampton",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "NOR",
@@ -3126,7 +3126,7 @@
     "councilName": "Northampton"
   },
   {
-    "fileName": "Enfield.jpg",
+    "fileName": "../images/Enfield.jpg",
     "slug": "enfield",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "ENF",
@@ -3135,7 +3135,7 @@
     "councilName": "Enfield"
   },
   {
-    "fileName": "Broxbourne.jpg",
+    "fileName": "../images/Broxbourne.jpg",
     "slug": "broxbourne",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "BRX",
@@ -3144,7 +3144,7 @@
     "councilName": "Broxbourne"
   },
   {
-    "fileName": "East-Hertsfordshire.jpg",
+    "fileName": "../images/East-Hertsfordshire.jpg",
     "slug": "east-hertsfordshire",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "EHE",
@@ -3153,7 +3153,7 @@
     "councilName": "East Hertfordshire"
   },
   {
-    "fileName": "Waltham-Forest.jpg",
+    "fileName": "../images/Waltham-Forest.jpg",
     "slug": "waltham-forest",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "WFT",
@@ -3162,7 +3162,7 @@
     "councilName": "Waltham Forest"
   },
   {
-    "fileName": "Renfrewshire.jpg",
+    "fileName": "../images/Renfrewshire.jpg",
     "slug": "renfrewshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "RFW",
@@ -3171,7 +3171,7 @@
     "councilName": "Renfrewshire"
   },
   {
-    "fileName": "East-Dunbartonshire.jpg",
+    "fileName": "../images/East-Dunbartonshire.jpg",
     "slug": "east-dunbartonshire",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "EDU",
@@ -3180,7 +3180,7 @@
     "councilName": "East Dunbartonshire"
   },
   {
-    "fileName": "Stirling.jpg",
+    "fileName": "../images/Stirling.jpg",
     "slug": "stirling",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "STG",
@@ -3189,7 +3189,7 @@
     "councilName": "Stirling"
   },
   {
-    "fileName": "Perth-and-Kinross.jpg",
+    "fileName": "../images/Perth-and-Kinross.jpg",
     "slug": "perth-and-kinross",
     "localAuthorityCountry": "sct",
     "localAuthorityCode": "PKN",
@@ -3198,7 +3198,7 @@
     "councilName": "Perth and Kinross"
   },
   {
-    "fileName": "Medway.jpg",
+    "fileName": "../images/Medway.jpg",
     "slug": "medway",
     "localAuthorityCountry": "eng",
     "localAuthorityCode": "MDW",

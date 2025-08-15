@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+
 const {
   fileName,
   councilCode,
@@ -13,9 +15,8 @@ const {
 <div>
   <a href={`/${slug}`}>
     <a class="block sm:pb-10">
-      <!-- <LazyLoad offsetVertical={1500}>
-            <img src={fileName} />
-          </LazyLoad> -->
+      <Image src={fileName} alt={councilName} />
+
       <div class="hidden sm:block p-4">
         <h3 class="mb-1 text-2xl" data-local-authority-eng={councilCode}>
           {councilName}
