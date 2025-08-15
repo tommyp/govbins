@@ -48,12 +48,17 @@ const sortOptions = [
       })
     }
   </ul>
-  <ul>
+  <section class="grid grid-cols-2 lg:grid-cols-4">
     {bins.map((bin) => <Bin {...bin.data} />)}
-  </ul>
+  </section>
 </Layout>
 
 <style>
+  section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .sort-bar {
     background-color: #cccccc;
     overflow-x: scroll;
@@ -83,6 +88,12 @@ const sortOptions = [
       border-top: 4px solid transparent;
       color: var(--text-color);
       text-decoration: none;
+    }
+  }
+
+  @media (min-width: 992px) {
+    section {
+      grid-template-columns: repeat(4, 1fr);
     }
   }
 </style>

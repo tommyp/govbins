@@ -14,32 +14,35 @@ const {
 ---
 
 <a href={`/${slug}`}>
-  <a class="block sm:pb-10">
-    <Image src={fileName} alt={councilName || retroName} />
+  <!-- <a class="block sm:pb-10"> -->
+  <Image src={fileName} alt={councilName || retroName} />
 
-    <div class="hidden sm:block p-4">
-      <h3 class="mb-1 text-2xl" data-local-authority-eng={councilCode}>
-        {councilName}
-      </h3>
-      <div class="font-sans font-light text-xl">
-        <p>{collectionDate}</p>
-        {
-          contributorHandle && contributorURL ? (
-            <p>
-              <a class="contributor" href={contributorURL}>
-                {contributorHandle}
-              </a>
-            </p>
-          ) : (
-            <p>{contributorHandle}</p>
-          )
-        }
-      </div>
+  <div class="hidden sm:block p-4">
+    <h3 class="mb-1 text-2xl" data-local-authority-eng={councilCode}>
+      {councilName}
+    </h3>
+    <div class="font-sans font-light text-xl">
+      <p>{collectionDate}</p>
+      {
+        contributorHandle && contributorURL ? (
+          <p>
+            <a class="contributor" href={contributorURL}>
+              {contributorHandle}
+            </a>
+          </p>
+        ) : (
+          <p>{contributorHandle}</p>
+        )
+      }
     </div>
-  </a>
+  </div>
+  <!-- </a> -->
 </a>
 
 <style>
+  a {
+    display: block;
+  }
   .contributor {
     text-decoration: underline;
     text-decoration-color: #ea47cb;
