@@ -1,4 +1,4 @@
-<header>
+<header class="md:flex sm:justify-between pt-4 pr-5 pb-10 pl-5 w-screen">
   <h1 class="pt-2 w-full md:w-1/2 text-4xl">
     <a href="/">
       <a>#govbins</a>
@@ -23,3 +23,64 @@
     </ul>
   </nav>
 </header>
+
+<style>
+  header {
+    width: 100vw;
+    padding: 1rem 1.25rem 2.5rem;
+  }
+
+  h1 {
+    padding-top: 0.5rem;
+    width: 100%;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
+  nav {
+    width: 100%;
+    font-size: 1.25rem;
+    line-height: 2.5rem;
+  }
+
+  ul {
+    display: flex;
+  }
+
+  ul > * + * {
+    margin-left: 0.5rem;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    color: var(--text-color);
+  }
+
+  @media (min-width: 576px) {
+    nav {
+      margin-top: 1.25rem;
+    }
+  }
+
+  @media (min-width: 768px) {
+    header {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    h1 {
+      width: 50%;
+    }
+
+    ul {
+      justify-content: flex-end;
+    }
+
+    ul > * + * {
+      margin-left: 1rem;
+    }
+  }
+</style>
